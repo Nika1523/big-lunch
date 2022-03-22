@@ -1,0 +1,4 @@
+Letter block ( father, code) {
+This.father = father;
+This.code = code;
+}
